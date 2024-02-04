@@ -1,0 +1,66 @@
+*{
+    text-align: center;
+    color: rgb(15, 109, 232);
+   border-color:transparent;
+   background-image: url(landscape.jpg);
+   background-size: cover;
+   
+
+
+}
+button{
+    background-color: transparent;
+    border-radius: 55px;
+    border: 2px solid black;
+    background-image: none;
+   
+    
+}
+
+a{
+    color: rgb(15, 109, 232);
+    background-image: none;
+}
+fieldset{
+    width: 400px;
+    background-image:none;
+   
+    margin: auto;
+    border-radius: 10px;
+    filter: blur(5);
+    
+    
+}
+fieldset:hover{
+    box-shadow: 2px 2px  10px rgb(131, 101, 101);
+    
+}
+input{
+    background-color: transparent;
+    background-image: none ;
+  
+}
+a{
+    text-decoration: none;
+    background-image: none;
+}
+div{
+    
+    background-image: none;
+    margin: 50px;
+}
+ legend{
+  background-image: none;
+ }     
+.marquee{
+   background-image: none;
+  opacity: 1;
+
+}
+legend{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+    
+    
+
